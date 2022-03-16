@@ -1,0 +1,2 @@
+# -devim
+ilk ödev
