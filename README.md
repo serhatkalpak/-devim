@@ -1,2 +1,1 @@
-# -devim
-ilk ödev
+# sorgu
